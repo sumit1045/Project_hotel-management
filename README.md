@@ -29,7 +29,9 @@ Comment on the review, and reviews are complete with infinite scrolling!
 
 # Web application
 
-[Your link is here](file:///C:/Users/user/Documents/project/my_hotel/home.html)
+Following is the link to check actual demo of the project....
+
+[Your link is here](docs/home.html)
 
 # Screenshot
 
