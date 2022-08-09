@@ -27,12 +27,6 @@ Features that is available at the classic Intract, but not yet ported here:
 
 Comment on the review, and reviews are complete with infinite scrolling!
 
-# Web application
-
-Following is the link to check actual demo of the project....
-
-[Your link is here](file:///C:/Users/user/Documents/project/my_hotel/home.html)
-
 # Screenshot
 
 ## Welcome page🙏
