@@ -31,7 +31,7 @@ Comment on the review, and reviews are complete with infinite scrolling!
 
 Following is the link to check actual demo of the project....
 
-[Your link is here](home.html)
+[Your link is here](file:///C:/Users/user/Documents/project/my_hotel/home.html)
 
 # Screenshot
 
